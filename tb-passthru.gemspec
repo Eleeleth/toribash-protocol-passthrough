@@ -5,6 +5,6 @@ Gem::Specification.new do |s|
   s.description = "Sniffs Toribash packets and logs protocol."
   s.authors     = ["Anthony Clever"]
   s.email       = 'anthonyclever@gmail.com'
-  s.files       = ["lib/**/*"]
+  s.files       = ["lib/passthrough.rb"]
   s.homepage    = 'http://toribash-dev.leel.me/'
 end
